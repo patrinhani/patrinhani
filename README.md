@@ -9,7 +9,7 @@
   
   <br>
 
-  <a href="[https://linkedin.com/in/SEU_USER](https://www.linkedin.com/in/guilherme-patrinhani/)">
+  <a href="https://www.linkedin.com/in/guilherme-patrinhani/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:patrinhani.gui@gmail.com">
@@ -34,7 +34,7 @@
   <br><br>
   
   <h4>🎨 Design & 3D </h4>
-  <img src="https://img.shields.io/badge/Modelagem_3D-555555?style=for-the-badge&logo=blender&logoColor=orange" alt="Modelagem 3D (ícone ilustrativo Blender)" />
+  <img src="https://img.shields.io/badge/Modelagem_3D-555555?style=for-the-badge&logo=blender&logoColor=orange" alt="Modelagem 3D" />
 </div>
 
 <br>
