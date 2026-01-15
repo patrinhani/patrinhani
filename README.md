@@ -39,10 +39,25 @@
 
 <br>
 
-### 📊 Minhas Estatísticas
+### 🎮 Player Status
+
+<div align="center">
+  <img src="https://img.shields.io/badge/RPG-Tabletop-c14438?style=for-the-badge&logo=dungeonsanddragons&logoColor=white" />
+  <img src="https://img.shields.io/badge/Baldur's_Gate_3-5C161E?style=for-the-badge&logo=larianstudios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</div>
+
+<br>
+
+### 📊 Estatísticas de Jogo
 <div align="center">
   <a href="https://github.com/patrinhani">
-    <img height="180" src="https://github-readme-stats-coral-six-18.vercel.app/api?username=patrinhani&show_icons=true&theme=omni&include_all_commits=true&count_private=true&locale=pt-br&cache=novo_teste" alt="Stats do Patrinhani" />
-    <img height="180" src="https://github-readme-stats-coral-six-18.vercel.app/api/top-langs/?username=patrinhani&layout=compact&theme=omni&locale=pt-br&cache=novo_teste" alt="Linguagens mais usadas" />
+    <img height="180" src="https://github-readme-stats-coral-six-18.vercel.app/api?username=patrinhani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&v=3" alt="Stats do Patrinhani" />
+    <img height="180" src="https://github-readme-stats-coral-six-18.vercel.app/api/top-langs/?username=patrinhani&layout=compact&theme=radical&locale=pt-br&v=3" alt="Linguagens mais usadas" />
   </a>
+</div>
+
+### 🕹️ Histórico de Jogo (Snake)
+<div align="center">
+  <img src="https://github.com/patrinhani/patrinhani/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
