@@ -39,14 +39,6 @@
 
 <br>
 
-### 🎮 Player Status
-
-<div align="center">
-  <img src="https://img.shields.io/badge/RPG-Tabletop-c14438?style=for-the-badge&logo=dungeonsanddragons&logoColor=white" />
-  <img src="https://img.shields.io/badge/Baldur's_Gate_3-5C161E?style=for-the-badge&logo=larianstudios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</div>
-
 <br>
 
 ### 📊 Estatísticas de Jogo
