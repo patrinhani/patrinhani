@@ -41,8 +41,8 @@
 
 ### 📊 Minhas Estatísticas
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=omni"/>
+  <a href="https://github.com/patrinhani">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=patrinhani&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrinhani&layout=compact&theme=omni"/>
   </a>
 </div>
