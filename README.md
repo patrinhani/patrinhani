@@ -42,7 +42,7 @@
 ### 📊 Minhas Estatísticas
 <div align="center">
   <a href="https://github.com/patrinhani">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=patrinhani&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrinhani&layout=compact&theme=omni&locale=pt-br"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=patrinhani&show_icons=true&theme=omni&include_all_commits=true&count_private=true&locale=pt-br" alt="Stats do Patrinhani" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrinhani&layout=compact&theme=omni&locale=pt-br" alt="Linguagens mais usadas" />
   </a>
 </div>
